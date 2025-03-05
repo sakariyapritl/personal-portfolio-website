@@ -18,7 +18,7 @@ This is a personal portfolio website showcasing my projects, skills, and experie
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/portfolio-website.git
+   git clone https://github.com/sakariyapritl/portfolio-website.git
    ```
 2. Navigate to the project folder:
    ```bash
